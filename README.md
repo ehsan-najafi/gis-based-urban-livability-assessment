@@ -4,9 +4,9 @@ This section outlines the Python scripts used to evaluate various aspects of urb
 
 
 
-Phase 1: Evaluation of Accessibility to Six Essential Urban Services
+Phase 1: Evaluation of Accessibility for Six Essential Urban Services
 
-This phase involves assessing accessibility by considering both the quantity of services available and their spatial distribution within the street network.
+This phase involves accessibility assessment by considering both the quantity of services available and their spatial distribution within the street network.
 
 ![github_image1](https://github.com/ehsan-najafi/gis-based-urban-livability-assessment/assets/142501937/270c7975-4e53-425c-bceb-e80a07390f50)
 
