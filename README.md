@@ -26,3 +26,4 @@ In this phase, the average statistical data were calculated at the neighborhood 
 
 ![github_image3](https://github.com/ehsan-najafi/gis-based-urban-livability-assessment/assets/142501937/ed7a7998-98fe-4d01-ae01-a3f0198581d1)
 
+
